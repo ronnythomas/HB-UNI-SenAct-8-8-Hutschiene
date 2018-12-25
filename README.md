@@ -61,6 +61,4 @@ Den Aufkleber für die Frontplatte genau exakt platzieren. Am besten ist es, die 
 ![complete](Images/22.JPG)
 ![complete](Images/23.JPG)
 
-![complete](Images/1.mp4)
-
 **Viel Spass bei Bauen**

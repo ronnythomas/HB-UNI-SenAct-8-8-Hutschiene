@@ -1,7 +1,6 @@
 # HB-UNI-SenAct-8-8-Hutschine
-# 8x 6A Schaltkontakte + 8 Eingänge 
-
-# Spannungsversorgung 9-36V mit Internen Netzteil oder 5V
+## 8x 6A Schaltkontakte + 8 Eingänge 
+## Spannungsversorgung 9-36V mit Internen Netzteil oder 5V
 
 ## benötigte Hardware
 **Vorschlag Bauteile**

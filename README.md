@@ -17,7 +17,7 @@ Meine Verwendetet Teile:[Reichelt](https://www.reichelt.de/my/1537601)
 
 
 ![complete](Images/1.jpg)
-![complete](Images/2.jpg)
+![complete](Images/2.JPG)
 
 Controller-Platine:
 Auf der oberen Platine zuerst die Widerstände bestücken. Danach die Stiftleisten für die Module einlöten.
@@ -26,19 +26,19 @@ Dann die Taster einlöten, hierzu sollte man erst bei allen nur ein Pin anlöten u
 Genauso verfahren wir mit den 5mm LED’s diese sollten auch erst mit einen Pin angelötet werden und dann ausgerichtet werden.
 Die Antenne ist aber nicht zu vergessen, die durch die Platine „gefädelt“ wird und am Empfangsmodul mittig eingelötet wird. Dazu sind passende Bohrungen auf dem Board vorhanden.
 
-![complete](Images/3.jpg)
-![complete](Images/4.jpg)
-![complete](Images/5.jpg)
-![complete](Images/6.jpg)
-![complete](Images/7.jpg)
-![complete](Images/8.jpg)
-![complete](Images/9.jpg)
-![complete](Images/10.jpg)
-![complete](Images/11.jpg)
-![complete](Images/12.jpg)
-![complete](Images/13.jpg)
-![complete](Images/14.jpg)
-![complete](Images/15.jpg)
+![complete](Images/3.JPG)
+![complete](Images/4.JPG)
+![complete](Images/5.JPG)
+![complete](Images/6.JPG)
+![complete](Images/7.JPG)
+![complete](Images/8.JPG)
+![complete](Images/9.JPG)
+![complete](Images/10.JPG)
+![complete](Images/11.JPG)
+![complete](Images/12.JPG)
+![complete](Images/13.JPG)
+![complete](Images/14.JPG)
+![complete](Images/15.JPG)
 
 Hauptplatine:
 Die Diode und nach die Sockel für IC’s einlöten (Kann man auch ohne Sockel bestücken)
@@ -48,18 +48,18 @@ Hier sollte spätestens die Entscheidung fallen, ob ich mit 5V direkt einspeisen 
 Wenn dieses nicht genutzt wird, können dafür die Bauteile weggelassen werden.
 Die Schraubklemmen (oder alternativ Wago) auflöten und dann die Relais. Die Leiterbahnen zu diesen sollte man noch extra verzinnen (bezüglich Strombelastung)
 
-![complete](Images/16.jpg)
-![complete](Images/17.jpg)
-![complete](Images/18.jpg)
+![complete](Images/16.JPG)
+![complete](Images/17.JPG)
+![complete](Images/18.JPG)
 
 Jetzt kommen die beiden langen Stiftleisten die jeweils rechts und links auf der Hauptplatine zuerst angelötet werden.
 Dann wird die Controllerplatine aufgesetzt und verlötet, hier können auch die Leisten gekürzt werden.
 Den Aufkleber für die Frontplatte genau exakt platzieren. Am besten ist es, die Löcher mit einem 1mm HSS Bohrer erstmal mittig!!! vorzubohren. Anschließend kann man für die LEDs ein 5mm sowie für die Taster ein 2,5mm Bohrer vergrößern.
 
-![complete](Images/19.jpg)
-![complete](Images/20.jpg)
-![complete](Images/21.jpg)
-![complete](Images/22.jpg)
-![complete](Images/23.jpg)
+![complete](Images/19.JPG)
+![complete](Images/20.JPG)
+![complete](Images/21.JPG)
+![complete](Images/22.JPG)
+![complete](Images/23.JPG)
 
 **Viel Spass bei Bauen**

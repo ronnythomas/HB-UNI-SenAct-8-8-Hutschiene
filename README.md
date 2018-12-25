@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # HB-UNI-SenAct-8-8-Hutschine
 # 8x 6A Schaltkontakte + 8 Eingänge 
 
@@ -63,3 +64,8 @@ Den Aufkleber für die Frontplatte genau exakt platzieren. Am besten ist es, die 
 ![complete](Images/23.jpg)
 
 **Viel Spass bei Bauen**
+=======
+# HB-UNI-SenAct-8-8-Hutschiene
+
+coming soon...
+>>>>>>> 95e54b91257cda3fc0b16757a2d888c72b57b293

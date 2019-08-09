@@ -50,6 +50,7 @@ Die Schraubklemmen (oder alternativ Wago) auflöten und dann die Relais. Die Leit
 ![complete](Images/16.JPG)
 ![complete](Images/17.JPG)
 ![complete](Images/18.JPG)
+![complete](Images/24.JPG)
 
 Jetzt kommen die beiden langen Stiftleisten die jeweils rechts und links auf der Hauptplatine zuerst angelötet werden.
 Dann wird die Controllerplatine aufgesetzt und verlötet, hier können auch die Leisten gekürzt werden.

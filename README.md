@@ -10,6 +10,10 @@
 
 Meine Verwendetet Teile:[Reichelt](https://www.reichelt.de/my/1537601)  
 
+[Hinweise aus HM Forum](https://homematic-forum.de/forum/viewtopic.php?f=76&t=55610&p=671826#p671826)
+[Hinweise aus HM Forum](https://homematic-forum.de/forum/viewtopic.php?f=76&t=67728)
+
+
 [Kontakt via Facebook](https://www.facebook.com/ronny.thomas.83)
 
 [Software](/Sketch)
